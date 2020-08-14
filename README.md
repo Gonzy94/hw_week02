@@ -1,1 +1,2 @@
-# hw_week02
+#HW_WEEK02
+This is my hw for week 02
