@@ -1,0 +1,10 @@
+.body {
+    background-image: url('https://www.umbrellaconsultants.com/files/resources/outer-banks-web-development-hosting.jpg');
+    background-color: rgba(255,255,255,0.6);
+     background-blend-mode: lighten;
+  }
+
+ .homeText {
+     text-align: center;
+     font-size: xx-large;
+ }
